@@ -33,9 +33,9 @@ Farming Weapons (Non Rate Up)
 - Xeno Weap 	 : 20k / 1
 ```
 <p align="center"> 
-  <img src="https://gbf.wiki/images/3/3f/BattleRaid_Mugen_Impossible.png" width="250" height="150"/> </a>
-  <img src="https://gbf.wiki/images/7/74/BattleRaid_Diaspora_Impossible.png" width="250" height="150"/> </a>
-  <img src="https://gbf.wiki/images/3/36/BattleRaid_Siegfried_Impossible.png" width="250" height="150"/> </a>
+  <img src="https://gbf.wiki/images/3/3f/BattleRaid_Mugen_Impossible.png" width="250" height="150"/>
+  <img src="https://gbf.wiki/images/7/74/BattleRaid_Diaspora_Impossible.png" width="250" height="150"/>
+  <img src="https://gbf.wiki/images/3/36/BattleRaid_Siegfried_Impossible.png" width="250" height="150"/>
   </p>
 
 ### *8 Raid Edition (Farming Weapons)
@@ -66,8 +66,8 @@ Anima Farming List
 
 -------------------------------------------
 <p align="center"> 
-  <img src="https://gbf.wiki/images/5/52/Event_Unite_and_Fight_header.jpg" width="450" height="200"/> </a>
-  <img src="https://gbf.wiki/images/4/44/Dread_Barrage_top.jpg" width="450" height="200"/> </a>
+  <img src="https://gbf.wiki/images/5/52/Event_Unite_and_Fight_header.jpg" width="450" height="200"/>
+  <img src="https://gbf.wiki/images/4/44/Dread_Barrage_top.jpg" width="450" height="200"/>
   </p>
   
 ### Raid Edition (Unite and Fight & Dread Barrage)
@@ -90,9 +90,9 @@ Dread Barrage Edition
 ```
 -------------------------------------------
 <p align="center"> 
-  <img src="https://gbf.wiki/images/e/e8/BattleRaid_Lucilius_ImpossibleHard.png" width="250" height="150"/> </a>
-  <img src="https://gbf.wiki/images/1/1d/BattleRaid_Beelzebub_Impossible.png" width="250" height="150"/> </a>
-  <img src="https://gbf.wiki/images/2/28/BattleRaid_Belial_Impossible.png" width="250" height="150"/> </a>
+  <img src="https://gbf.wiki/images/e/e8/BattleRaid_Lucilius_ImpossibleHard.png" width="250" height="150"/>
+  <img src="https://gbf.wiki/images/1/1d/BattleRaid_Beelzebub_Impossible.png" width="250" height="150"/>
+  <img src="https://gbf.wiki/images/2/28/BattleRaid_Belial_Impossible.png" width="250" height="150"/>
   </p>
   
 ### Raid Edition (Hard Carry)
@@ -107,7 +107,7 @@ Belial 			: 1x Run / 50k | 6x Run / 150k
 
 -------------------------------------------
 <p align="center"> 
-  <img src="https://gbf.wiki/images/d/dd/Riseofthebeasts_top.png"/> </a>
+  <img src="https://gbf.wiki/images/d/dd/Riseofthebeasts_top.png"/>
   </p>
 
 ### Raid Edition (Rise of the Beast)
@@ -164,7 +164,7 @@ Free Quest (First time Clear)
 
 -------------------------------------------
 <p align="center"> 
-  <img src="https://gbf.wiki/images/4/48/Update_skyscope1.png"/> </a>
+  <img src="https://gbf.wiki/images/4/48/Update_skyscope1.png"/>
   </p>
   
 ### Skyscope Edition
@@ -209,7 +209,7 @@ Mastery Level
 
 -------------------------------------------
 <p align="center"> 
-  <img src="https://gbf.wiki/images/e/ec/Proving_Grounds_top.png"/> </a>
+  <img src="https://gbf.wiki/images/e/ec/Proving_Grounds_top.png"/>
   </p>
 
 ### Proving Ground Edition (PG)
@@ -222,7 +222,7 @@ Mastery Level
 
 -------------------------------------------
 <p align="center"> 
-  <img src="https://gbf.wiki/images/9/93/Tower_of_Babyl_top.jpg"/> </a>
+  <img src="https://gbf.wiki/images/9/93/Tower_of_Babyl_top.jpg"/>
   </p>
 
 ### Tower of Babyl Edition (S&K)
@@ -234,7 +234,7 @@ Mastery Level
 
 -------------------------------------------
 <p align="center"> 
-  <img src="https://gbf.wiki/images/0/00/Arcarum_teaser_top.jpg"/> </a>
+  <img src="https://gbf.wiki/images/0/00/Arcarum_teaser_top.jpg"/>
   </p>
   
 ### Arcarum Series
